@@ -1,5 +1,5 @@
-Lysozyme Chicken LYSC_CHICK P00698
-Lysozyme Human LYSC_HUMAN P61626
-Hemoglobin-alpha Human HBA_HUMAN P69905
-Hemoglobin-beta Human HBB_HUMAN P68871
-This is clearly another mistake!
+Lysozyme Chicken LYSC_CHICK P00698 147
+Lysozyme Human LYSC_HUMAN P61626 148
+Hemoglobin-alpha Human HBA_HUMAN P69905 143
+Hemoglobin-beta Human HBB_HUMAN P68871 144
+This is clearly another mistake! 
